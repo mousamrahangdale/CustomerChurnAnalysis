@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit_learn
+joblib
+psycopg2
+
+#  For SQL - PostgreSQl
+#  Python Coding - Jupyter Notebook
+#  Data Visulization - PowerBI
